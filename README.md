@@ -1,2 +1,2 @@
 # ServiceDesk-releases
-Signed ServiceDesk installers and update files (source code is private)
+Signed ServiceDesk installers.
